@@ -1,0 +1,12 @@
+C:\Projects\c#\FileCombine\FileProcessor\bin\Debug\net7.0\FileProcessor.deps.json
+C:\Projects\c#\FileCombine\FileProcessor\bin\Debug\net7.0\FileProcessor.dll
+C:\Projects\c#\FileCombine\FileProcessor\bin\Debug\net7.0\FileProcessor.pdb
+C:\Projects\c#\FileCombine\FileProcessor\obj\Debug\net7.0\FileProcessor.csproj.AssemblyReference.cache
+C:\Projects\c#\FileCombine\FileProcessor\obj\Debug\net7.0\FileProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\c#\FileCombine\FileProcessor\obj\Debug\net7.0\FileProcessor.AssemblyInfoInputs.cache
+C:\Projects\c#\FileCombine\FileProcessor\obj\Debug\net7.0\FileProcessor.AssemblyInfo.cs
+C:\Projects\c#\FileCombine\FileProcessor\obj\Debug\net7.0\FileProcessor.csproj.CoreCompileInputs.cache
+C:\Projects\c#\FileCombine\FileProcessor\obj\Debug\net7.0\FileProcessor.dll
+C:\Projects\c#\FileCombine\FileProcessor\obj\Debug\net7.0\refint\FileProcessor.dll
+C:\Projects\c#\FileCombine\FileProcessor\obj\Debug\net7.0\FileProcessor.pdb
+C:\Projects\c#\FileCombine\FileProcessor\obj\Debug\net7.0\ref\FileProcessor.dll
